@@ -56,7 +56,3 @@ This dashboard consists of *three pages**
 Check the Dashboard on Power BI - [Dashboard on Power BI Workspace](https://app.powerbi.com/view?r=eyJrIjoiYzhhYjBiODEtNTY0Zi00YTM4LWFlYjYtZmRhNTg1Yjk0M2U2IiwidCI6IjIwNDk0NTM2LWIzMDgtNGEyOS04ZWFjLTZlODJhY2I0NWFkMCJ9)
 
 Contact LinkedIn - [Sharon Nayak](www.linkedin.com/in/sharon-nayak-471725253)
-
-## Preview
-
-![Jobs_Through_LinkedIn Demo](images)
